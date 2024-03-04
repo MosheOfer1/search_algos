@@ -1,0 +1,7 @@
+A*
+with time
+with open
+2x3
+White: (3,0)
+1,2,_
+4,5,3
